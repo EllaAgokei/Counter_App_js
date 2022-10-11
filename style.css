@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+body{
+    height: 100vh;
+    background-color: #13162b;
+    display: grid;
+    place-items: center;
+}
+h1{
+    text-align: center; 
+color: #FFFF;
+}
+.container{
+    background-color:#ADD8E6 ;
+}
+ button{
+position: relative;
+width: 30%;
+background-color: #ADD8E6;
+}
+#value{
+    color: #FFFF;
+}
